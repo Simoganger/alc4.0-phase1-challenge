@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="welcome">Welcome to ALC 4.0</string>
+    <string name="tv_profile">Simon Ngang</string>
+    <string name="profile_description">My profile picture</string>
+    <string name="track">Track:  Android</string>
+    <string name="country">Country:  Cameroon</string>
+    <string name="email">Email:  simonsoft7@gmail.com</string>
+    <string name="phone">Phone Number:  237679698881</string>
+    <string name="slack_username">Slack Username :  @Ngang Simon</string>
+    <string name="about_alc">About ALC</string>
+    <string name="my_profile">My Profile</string>
+</resources>
